@@ -1,0 +1,9 @@
+opencv-python-headless==4.10.0.84
+streamlit==1.36.0
+pillow==10.4.0
+numpy==1.26.4
+Python-IO==0.3
+openvino==2024.0.0
+matplotlib==3.9.1
+streamlit-camera-input-live==0.2.0
+moviepy==2.0.0.dev2
